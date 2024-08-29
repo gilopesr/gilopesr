@@ -4,4 +4,4 @@
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=pink)](mailto:gilopes2005@gmail.com)
 
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gilopesr&layout=compact&bg_color=FFF&border_color=ff95bc&title_color=ff95bc&text_color=000)    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gilopesr&theme=transparent&bg_color=000&border_color=ff95bc&show_icons=true&icon_color=30A3DC&title_color=ff95bc&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gilopesr&layout=compact&bg_color=FFF&border_color=ff95bc&title_color=ff95bc&text_color=000)    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gilopesr&theme=transparent&bg_color=FFF&border_color=ff95bc&show_icons=true&icon_color=30A3DC&title_color=ff95bc&text_color=000)
