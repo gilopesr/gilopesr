@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=pink)](mailto:gilopes2005@gmail.com)
 
 ###Linguagens ::
-https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white
+[![PYHTON]https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white]
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gilopesr&theme=transparent&bg_color=FFE9F1&border_color=ff95bc&show_icons=true&icon_color=30A3DC&title_color=ff95bc&text_color=000) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gilopesr&layout=compact&bg_color=FFE9F1&border_color=ff95bc&title_color=ff95bc&text_color=000) 
 
