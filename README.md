@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Giovana !
 
-[![gif](https://github.com/user-attachments/assets/908cc5b3-c674-46e7-896b-5538858e6be9)](https://giffiles.alphacoders.com/297/2970.gif)
+[[[![gif](https://github.com/user-attachments/assets/908cc5b3-c674-46e7-896b-5538858e6be9)](https://giffiles.alphacoders.com/297/2970.gif)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.alphacoders.com%2Fgifs%2Fview%2F2970&psig=AOvVaw05zyoHBE3Ld6S4CmS8gp4N&ust=1744121927009000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDl78-OxowDFQAAAAAdAAAAABAE)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.alphacoders.com%2Fgifs%2Fview%2F2970&psig=AOvVaw05zyoHBE3Ld6S4CmS8gp4N&ust=1744121927009000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDl78-OxowDFQAAAAAdAAAAABAE)
 
 ### SOCIAL::
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovana-lopes-ribeiro-4635912a8)
