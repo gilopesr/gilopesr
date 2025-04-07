@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Giovana !
 
-[![image](https://giffiles.alphacoders.com/297/2970.gif)]
+![image](https://giffiles.alphacoders.com/297/2970.gif)
 
 ### SOCIAL::
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovana-lopes-ribeiro-4635912a8)
