@@ -1,5 +1,8 @@
 ## Hi there 👋 I'm Giovana !
 
+Olá! Me chamo Giovana e sou estudante de *Análise e Desenvolvimento de Sistemas* na **Faculdade Impacta**, com uma paixão enorme por programação e jogos!
+Este é o meu espaço no GitHub, onde compartilho minha jornada de aprendizado contínuo através de projetos pessoais e acadêmicos.
+
 ![image](https://giffiles.alphacoders.com/297/2970.gif) [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bp4a55facwn9lgfdxtcx71ahe&cover_image=true&theme=novatorem&show_offline=false&background_color=ededed&interchange=true&bar_color=deb5d1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ### SOCIAL::
