@@ -37,3 +37,16 @@ Este é o meu espaço no GitHub, onde compartilho minha jornada de aprendizado c
   </tr>
 </table>
 
+
+<table>
+  <tr>
+    <td><b>Spotify</b><br>
+      <img src="https://link-do-widget" width="300">
+    </td>
+    <td>
+      <b>Social</b><br><br>
+      <a href="#"><img src="https://img.shields.io/..."></a>
+    </td>
+  </tr>
+</table>
+
