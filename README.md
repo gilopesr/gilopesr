@@ -3,6 +3,10 @@
 Olá! Me chamo Giovana e sou estudante de *Análise e Desenvolvimento de Sistemas* na **Faculdade Impacta**, com uma paixão enorme por programação e jogos!
 Este é o meu espaço no GitHub, onde compartilho minha jornada de aprendizado contínuo através de projetos pessoais e acadêmicos.
 
+### LANGUAGES ::
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,kotlin,aws,docker,flask,git,postman,sqlite&theme=light)](https://skillicons.dev)
+
+
 <table>
   <tr>
     <td>
@@ -14,11 +18,22 @@ Este é o meu espaço no GitHub, onde compartilho minha jornada de aprendizado c
   </tr>
 </table>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bp4a55facwn9lgfdxtcx71ahe&cover_image=true&theme=novatorem&show_offline=false&background_color=ededed&interchange=true&bar_color=deb5d1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/kittinan/spotify-github-profile">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bp4a55facwn9lgfdxtcx71ahe&cover_image=true&theme=novatorem&show_offline=false&background_color=ededed&interchange=true&bar_color=deb5d1&bar_color_cover=false" width="380"/>
+      </a>
+    </td>
+    <td>
+      <b>SOCIAL ::</b><br><br>
+      <a href="https://www.linkedin.com/in/giovana-lopes-ribeiro-4635912a8">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      </a>
+      <a href="mailto:gilopes2005@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=pink"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-### SOCIAL::
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovana-lopes-ribeiro-4635912a8)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=pink)](mailto:gilopes2005@gmail.com)
-
-### LANGUAGES ::
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,kotlin,aws,docker,flask,git,postman,sqlite&theme=light)](https://skillicons.dev)
