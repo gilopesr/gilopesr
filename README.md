@@ -10,10 +10,6 @@ Este é o meu espaço no GitHub, onde compartilho minha jornada de aprendizado c
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=pink)](mailto:gilopes2005@gmail.com)
 
 ### LANGUAGES ::
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,kotlin,aws,docker, flask,git,postman,sqlite)](https://skillicons.dev)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gilopesr&theme=transparent&bg_color=ffff&border_color=ff95bc&show_icons=true&icon_color=30A3DC&title_color=ff95bc&text_color=000)
